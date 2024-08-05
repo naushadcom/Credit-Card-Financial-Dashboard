@@ -1,4 +1,4 @@
-﻿Client_Num,Card_Category,Annual_Fees,Activation_30_Days,Customer_Acq_Cost,Week_Start_Date,Week_Num,Qtr,current_year,Credit_Limit,Total_Revolving_Bal,Total_Trans_Amt,Total_Trans_Ct,Avg_Utilization_Ratio,Use Chip,Exp Type,Interest_Earned,Delinquent_Acc
+﻿Client_Num,Card_Category,Annual_Fees,Activation_30_Days,Customer_Acq_Cost,Week_Start_Date,Week_Num,Qtr,current_year,Credit_Limit,Total_Revolving_Bal,Total_Trans_Amt,Total_Trans_Vol,Avg_Utilization_Ratio,Use Chip,Exp Type,Interest_Earned,Delinquent_Acc
 963607849,Blue,300,1,108,31-12-2023,Week-53,Q4,2023,14315,690,9603,56,0.048,Swipe ,Entertainment,598.69,0
 932954954,Blue,175,1,96,31-12-2023,Week-53,Q4,2023,5711,0,4325,72,0,Swipe ,Fuel,691.2,0
 961650885,Blue,195,0,76,31-12-2023,Week-53,Q4,2023,3104,1766,9353,24,0.569,Swipe ,Travel,216.48,0
