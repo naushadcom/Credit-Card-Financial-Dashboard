@@ -1,6 +1,6 @@
 # Credit-Card-Finalcial-Dashboard
 
-<h1>Project Objective</h1>
+<h1>Project Objective:</h1>
 To develop a comprehensive credit
 card weekly dashboard that
 provides real-time insights into key
@@ -9,9 +9,24 @@ enabling stakeholders to monitor
 and analyze credit card operations
 effectively.
 
-<h2>Credit Card Transaction Report</h2>
+<h2>Credit Card Transaction Report:</h2>
 <img src="https://github.com/naushadcom/Credit-Card-Finalcial-Dashboard/blob/main/screenshot/Credit_card_transaction_report.png">
 
 
-<h2>Credit Card Customer Report</h2>
+<h2>Credit Card Customer Report:</h2>
 <img src="https://github.com/naushadcom/Credit-Card-Finalcial-Dashboard/blob/main/screenshot/credit_card_customer_report.png">
+
+
+<h2>Technical Skills:</h2>
+ Proficiency in ETL methodology (Extract, Transform, Load).
+ Skills to generate a date table using Power Query.
+ Ability to derive fiscal months and quarters.
+ Establishing data model relationships with Power Pivot.
+ Proficiency in incorporating supplementary data into an existing data model.
+ Utilizing DAX to create calculated columns.
+
+ Soft Skills:
+ Refined understanding of Customer & Transaction Reports
+ Designing user-centric reports.
+ Optimization of report generation through meticulous fine-tuning.
+ Developing a systematic approach to devising a report building plan.
