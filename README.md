@@ -1,13 +1,18 @@
 # Credit-Card-Finalcial-Dashboard
 
-<h1>Project Objective:</h1>
-To develop a comprehensive credit
-card weekly dashboard that
-provides real-time insights into key
-performance metrics and trends,
-enabling stakeholders to monitor
-and analyze credit card operations
-effectively.
+## Project Overview
+
+This project aims to **develop a comprehensive credit card weekly dashboard** that provides stakeholders with **real-time insights** into key performance metrics and trends. The dashboard is designed to empower stakeholders by enabling them to:
+
+- **Monitor credit card operations** effectively with up-to-date data.
+- **Analyze key performance metrics** such as transaction volumes, customer behavior, and credit utilization.
+- **Identify trends and patterns** in credit card usage, allowing for data-driven decision-making.
+- **Customize views** to focus on specific areas of interest, such as high-risk accounts or spending categories.
+- **Enhance reporting capabilities** by providing a user-friendly interface that simplifies complex data.
+- **Support proactive management** of credit card portfolios through timely and actionable insights.
+
+This dashboard will be a crucial tool for stakeholders looking to optimize credit card operations and improve overall business performance.
+
 
 <h2>Credit Card Transaction Report:</h2>
 <img src="https://github.com/naushadcom/Credit-Card-Finalcial-Dashboard/blob/main/screenshot/Credit_card_transaction_report.png">
