@@ -8,3 +8,10 @@ performance metrics and trends,
 enabling stakeholders to monitor
 and analyze credit card operations
 effectively.
+
+<h2>Credit Card Transaction Report</h2>
+<img src="https://github.com/naushadcom/Credit-Card-Finalcial-Dashboard/blob/main/screenshot/Credit_card_transaction_report.png">
+
+
+<h2>Credit Card Customer Report</h2>
+<img src="https://github.com/naushadcom/Credit-Card-Finalcial-Dashboard/blob/main/screenshot/credit_card_customer_report.png">
