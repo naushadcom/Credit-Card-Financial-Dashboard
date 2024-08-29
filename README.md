@@ -17,15 +17,18 @@ effectively.
 <img src="https://github.com/naushadcom/Credit-Card-Finalcial-Dashboard/blob/main/screenshot/credit_card_customer_report.png">
 
 
-<h2>Technical Skills:</h2>
- Proficiency in ETL methodology (Extract, Transform, Load).
- Skills to generate a date table using Power Query.
- Establishing data model relationships with Power Pivot.
- Proficiency in incorporating supplementary data into an existing data model.
- Utilizing DAX to create calculated columns.
+## Technical Skills:
 
- <h2>Soft Skills:</h2>
- Refined understanding of Customer & Transaction Reports
- Designing user-centric reports.
- Optimization of report generation through meticulous fine-tuning.
- Developing a systematic approach to devising a report building plan.
+- **Proficiency in ETL methodology (Extract, Transform, Load).**
+- **Skills in generating a date table using Power Query.**
+- **Establishing data model relationships with Power Pivot.**
+- **Proficiency in incorporating supplementary data into an existing data model.**
+- **Utilizing DAX to create calculated columns.**
+
+
+## Soft Skills:
+
+- **A refined understanding of Customer & Transaction Reports.**
+- **Designing user-centric reports.**
+- **Optimization of report generation through meticulous fine-tuning.**
+- **Developing a systematic approach to devising a report-building plan.**
